@@ -1,3 +1,8 @@
+# Custom
+Images/
+Sounds/
+*.win
+
 # Object files
 *.o
 *.ko
